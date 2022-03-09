@@ -1,44 +1,44 @@
-[
-    {
-      id: '1',
-      image: 'assets/img/Camisa 1 (1).png',
-      title: 'Buso',
-      price: 10000,
-      description: 'Buso Nike Rojo'
-    },
-    {
-      id: '2',
-      image: 'assets/img/Camisa 1 (2).png',
-      title: 'Camiseta',
-      price: 50000,
-      description: 'Camiseta Nike Negra'
-    },
-    {
-      id: '3',
-      image: 'assets/img/Camisa 1 (3).png',
-      title: 'Camiseta',
-      price: 50000,
-      description: 'Camiseta W Morada'
-    },
-    {
-      id: '4',
-      image: 'assets/img/Camisa 1 (4).png',
-      title: 'Camiseta',
-      price: 50000,
-      description: 'Camiseta Adidas Blanca'
-    },
-    {
-      id: '5',
-      image: 'assets/img/Camisa 1 (5).png',
-      title: 'Camiseta',
-      price: 50000,
-      description: 'Camiseta Nike Azul/Blanca'
-    },
-    {
-      id: '6',
-      image: 'assets/img/Camisa 1 (6).png',
-      title: 'Buso',
-      price: 150000,
-      description: 'Buso Nike Verde'
-    }
-  ]
+"productos": [
+   {
+      "id": "1",
+      "image": "assets/img/Camisa 1 (1).png",
+      "title": "Buso",
+      "price": 10000,
+      "description": "Buso Nike Rojo"
+   },
+   {
+      "id": "2",
+      "image": "assets/img/Camisa 1 (2).png",
+      "title": "Camiseta",
+      "price": 50000,
+      "description": "Camiseta Nike Negra"
+   },
+   {
+      "id": "3",
+      "image": "assets/img/Camisa 1 (3).png",
+      "title": "Camiseta",
+      "price": 50000,
+      "description": "Camiseta W Morada"
+   },
+   {
+      "id": "4",
+      "image": "assets/img/Camisa 1 (4).png",
+      "title": "Camiseta",
+      "price": 50000,
+      "description": "Camiseta Adidas Blanca"
+   },
+   {
+      "id": "5",
+      "image": "assets/img/Camisa 1 (5).png",
+      "title": "Camiseta",
+      "price": 50000,
+      "description": "Camiseta Nike Azul/Blanca"
+   },
+   {
+      "id": "6",
+      "image": "assets/img/Camisa 1 (6).png",
+      "title": "Buso",
+      "price": 150000,
+      "description": "Buso Nike Verde"
+   }
+]
